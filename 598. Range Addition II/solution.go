@@ -1,3 +1,4 @@
+// 82.35% 64.71%
 func maxCount(m int, n int, ops [][]int) int {
     if len(ops) == 0 {
         return m * n
